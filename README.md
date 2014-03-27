@@ -4,4 +4,4 @@ grupodetrabalho
 O repositório "grupodetrabalho", servirá de base para armazenamento dos projetos.
 A equipe de trabalho está formada pelos integrantes:
 
-Clóvis Fortuna, Fagner Conceição,Jeferson Batista, Rafael Reis,Ramon Nascimento,Tiago Rebouças, Ubirajara Nunes.
+Adiel Cristo, Clovis Fortuna, Fagner Conceição, Jeferson Batista, Rafael Reis, Ramon Nascimento, Tiago Rebouças, Ubirajara Nunes.
